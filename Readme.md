@@ -2,13 +2,17 @@
 
 kleines Projekt zum Ausprobieren verschiedener Möglichkeiten, per draw.io eine an die London Tube Map angelehnte Karte der öffentlichen Verkehrsmittel in meinen Stadtteil zu machen.
 
-Als Schriftart wird Hammersmith One verwendet, welche als freie Schriftart an die original Schriftart erinnert.
-
 ## aktuelle Version
 
 ![](DellTube.png)
 
+## Vorlagen
 
+Als Schriftart wird Hammersmith One verwendet, welche als freie Schriftart an die original Schriftart erinnert.
+
+Die Farben stammen aus der TubeMap:
+
+![](standard-tube-map_colors.png)
 
 ## erste Skizzen
 
