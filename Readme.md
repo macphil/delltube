@@ -8,7 +8,7 @@ kleines Projekt zum Ausprobieren verschiedener Möglichkeiten, per draw.io eine 
 
 ## Vorlagen
 
-Als Schriftart wird Hammersmith One verwendet, welche als freie Schriftart an die original Schriftart erinnert.
+Als Schriftart wird Cabin verwendet, welche als freie Schriftart an die original Schriftart erinnert.
 
 Die Farben stammen aus der TubeMap:
 
@@ -33,4 +33,4 @@ Die nächste Skizze ist eine weiter reduzierte Version (fast ein Kunstwerk)
 - https://www.draw.io/
 - https://tfl.gov.uk/maps/track/tube
 - http://www.xn--pnvkarte-m4a.de/#7.0746;50.9736;15
-- https://fonts.google.com/specimen/Hammersmith+One
+- https://fonts.google.com/specimen/Cabin
