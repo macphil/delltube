@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-14T08:30:16.025Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="fcX6yP2Gx0LoBfpwtxQ0" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-16T00:02:12.199Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="BlE3ht_vSR9y34ImmiE2" version="12.7.0" type="github">
   <diagram id="F8VpJ28K4jp9fLRufquV" name="Page-1">
-    <mxGraphModel dx="946" dy="1163" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Hammersmith One^https://fonts.googleapis.com/css?family=Hammersmith+One|Cabin^https://fonts.googleapis.com/css?family=Cabin">
+    <mxGraphModel dx="1133" dy="969" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Hammersmith One^https://fonts.googleapis.com/css?family=Hammersmith+One|Cabin^https://fonts.googleapis.com/css?family=Cabin">
       <root>
         <mxCell id="0"/>
         <mxCell id="tSeJXY5QkdyVhTGE8RgK-30" value="Border" style="locked=1;" parent="0"/>
@@ -244,7 +244,7 @@
         <mxCell id="ZbaVkJlZUwb4LDYtSUrC-2" value="&lt;table style=&quot;font-size: 10px;&quot;&gt;&lt;thead style=&quot;font-size: 10px;&quot;&gt;&lt;tr style=&quot;font-size: 10px;&quot;&gt;&lt;th style=&quot;font-size: 10px;&quot;&gt;Line&lt;/th&gt;&lt;th style=&quot;font-size: 10px;&quot;&gt;VRS&lt;/th&gt;&lt;th style=&quot;font-size: 10px;&quot;&gt;tfl&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody style=&quot;font-size: 10px;&quot;&gt;&lt;tr style=&quot;font-size: 10px;&quot;&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;S11&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;F49200&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;FBCE1F (Circle)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 10px;&quot;&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;3&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;EE9EC1&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;2092C6 (Victoria)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 10px;&quot;&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;18&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;2397DB&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;22387D (Piccadilly)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 10px;&quot;&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;154&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;ED693C&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;DA322A (Central)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 10px;&quot;&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;435&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;C19375&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;9E5820 (Bakerloo)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 10px;&quot;&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;436&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;A6C71F&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;117A3D (District)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 10px;&quot;&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;Wasser&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;C6EAFA&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 10px;&quot;&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;Text&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;22387D&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;22387D (Piccadilly)&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 10px;&quot;&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;Hintergrund&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;F2F2F2&lt;/td&gt;&lt;td style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#22387D;spacing=0;fontSize=10;fontStyle=1;fontFamily=Courier New;" parent="M_QFQK3Uzq7nNJ9T8SE2-1" vertex="1">
           <mxGeometry x="445" y="815" width="245" height="170" as="geometry"/>
         </mxCell>
-        <mxCell id="Bmg6g-iRw27d0fJSjzcu-1" value="Key and border" style="" parent="0"/>
+        <mxCell id="Bmg6g-iRw27d0fJSjzcu-1" value="Key and border" style="locked=1;" parent="0"/>
         <mxCell id="Bmg6g-iRw27d0fJSjzcu-32" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#f2f2f2;fontFamily=Hammersmith One;fontSize=60;fontColor=#FFFFFF;align=left;opacity=60;rotation=135;" parent="Bmg6g-iRw27d0fJSjzcu-1" vertex="1">
           <mxGeometry x="812.42" y="210.46" width="100.76" height="12.48" as="geometry"/>
         </mxCell>
@@ -266,13 +266,10 @@
         <mxCell id="Bmg6g-iRw27d0fJSjzcu-25" value="ÖPNV in Köln-Dellbrück" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#22387D;fontFamily=Cabin;fontSize=60;fontColor=#FFFFFF;align=left;fontStyle=0;spacing=10;spacingLeft=18;" parent="Bmg6g-iRw27d0fJSjzcu-1" vertex="1">
           <mxGeometry x="20" y="80" width="880" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="Bmg6g-iRw27d0fJSjzcu-33" value="@Dellbruecker Februar 2020 " style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontFamily=Cabin;fontColor=#22387D;fontSize=10;fontStyle=0;connectable=0;allowArrows=0;expand=1;horizontal=1;textDirection=ltr;spacing=0;" parent="Bmg6g-iRw27d0fJSjzcu-1" vertex="1">
-          <mxGeometry x="755" y="1005" width="125" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="ZbaVkJlZUwb4LDYtSUrC-3" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontFamily=Courier New;fontSize=10;fontColor=#22387D;align=left;strokeColor=none;" parent="Bmg6g-iRw27d0fJSjzcu-1" vertex="1">
           <mxGeometry x="440" y="815" width="260" height="170" as="geometry"/>
         </mxCell>
-        <mxCell id="YkK0MQPDYBE4LStI5NFq-1" value="" style="group" vertex="1" connectable="0" parent="Bmg6g-iRw27d0fJSjzcu-1">
+        <mxCell id="YkK0MQPDYBE4LStI5NFq-1" value="" style="group" parent="Bmg6g-iRw27d0fJSjzcu-1" vertex="1" connectable="0">
           <mxGeometry x="700" y="852.5" width="75" height="95" as="geometry"/>
         </mxCell>
         <mxCell id="Bmg6g-iRw27d0fJSjzcu-2" value="" style="endArrow=none;html=1;strokeWidth=8;fillColor=#0050ef;fontFamily=Lucida Console;fontSize=10;fontColor=#3333FF;strokeColor=#22387D;spacingLeft=35;" parent="YkK0MQPDYBE4LStI5NFq-1" edge="1">
@@ -340,6 +337,12 @@
           <mxGeometry x="0.3264" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9LHl7YR9Ln-q64DJi_c-2" value="&lt;font face=&quot;Cabin&quot; style=&quot;font-size: 10px&quot;&gt;02. 2020&lt;br&gt;CC BY-NC&amp;nbsp;2.0 Philip Schröder&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=bottom;whiteSpace=wrap;rounded=0;comic=0;fontSize=10;fontColor=#22387D;" vertex="1" parent="Bmg6g-iRw27d0fJSjzcu-1">
+          <mxGeometry x="672.5" y="1005" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="Y9LHl7YR9Ln-q64DJi_c-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://licensebuttons.net/l/by-nc/4.0/88x31.png;opacity=50;" vertex="1" parent="Bmg6g-iRw27d0fJSjzcu-1">
+          <mxGeometry x="807" y="1004" width="88" height="31" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
